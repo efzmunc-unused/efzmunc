@@ -1,4 +1,4 @@
-####### Welcome to the official site of EFZMUNC!
+## Welcome to the official site of EFZMUNC!
 
 EFZMUNC is awesome. You can use the [editor on GitHub](https://github.com/efzmunc/efzmunc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
