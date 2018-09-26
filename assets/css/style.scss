@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+p {
+  color: orange;
+  font-size: 100;
+}
